@@ -13,6 +13,9 @@ I invite you to explore my work and let's secure the digital world together!
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Attacker Heat Map  (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+
 
 <hr/>
 
