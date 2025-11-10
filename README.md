@@ -5,15 +5,18 @@ Cybersecurity enthusiast specializing in vulnerability management and threat det
 I invite you to explore my work and let's secure the digital world together!
 
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario ( VMs Exposed to Internet Brute Force Attacks)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Attacker Heat Map  (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/StevePerchard/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-- **[Attacker Heat Map  (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 
 
