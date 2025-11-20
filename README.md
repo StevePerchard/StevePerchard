@@ -2,7 +2,7 @@
 
 # <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
 
-Cybersecurity enthusiast specializing in vulnerability management and threat detection. My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
+Hello & Welcome! I am a Cybersecurity enthusiast specializing in vulnerability management and threat detection. My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
 I invite you to explore my work and let's secure the digital world together!
 
 
