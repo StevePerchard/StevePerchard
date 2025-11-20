@@ -1,3 +1,4 @@
+<img width="1633" height="192" alt="image" src="https://github.com/user-attachments/assets/2598dd7e-5337-4204-b714-73d178de1bb4" />
 
 # <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s IT and Cybersecurity Project Portfolio 🔐
 
