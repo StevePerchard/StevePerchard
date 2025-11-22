@@ -16,7 +16,7 @@ I invite you to explore my work and let's secure the digital world together!
 - **[Vulnerability Management Program Implementation](https://github.com/StevePerchard/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/StevePerchard/Programatic-Vulnerability-Remediation-Scripts/blob/main/README.md)**
 
-## ⚠️ ISO 27001: 2022 ISMS Projects
+## 🖥️ ISO 27001: 2022 ISMS Projects
 
 
 
