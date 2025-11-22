@@ -2,7 +2,7 @@
 
 # <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
 
-Hello & Welcome! I am a Cybersecurity enthusiast specializing in vulnerability management and threat detection. My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
+Hello & Welcome! I am a Cybersecurity enthusiast. My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
 I invite you to explore my work and let's secure the digital world together!
 
 
@@ -15,6 +15,8 @@ I invite you to explore my work and let's secure the digital world together!
 
 - **[Vulnerability Management Program Implementation](https://github.com/StevePerchard/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/StevePerchard/Programatic-Vulnerability-Remediation-Scripts/blob/main/README.md)**
+
+## ⚠️ ISO 27001: 2022 ISMS Projects
 
 
 
