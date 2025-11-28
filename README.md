@@ -8,7 +8,7 @@ Any concern → contact me and I’ll fix it immediately.
 </details>
 </p>
 
-# <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
+# <a href="https://www.linkedin.com/in/stephen-p-50945a1/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
 
 My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
 I invite you to explore my work and let's secure the digital world together!
