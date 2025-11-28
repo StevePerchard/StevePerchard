@@ -1,4 +1,8 @@
-<img width="1633" height="192" alt="image" src="https://github.com/user-attachments/assets/2598dd7e-5337-4204-b714-73d178de1bb4" />
+<small>⚠️ **FOR LEGAL EDUCATIONAL PURPOSES ONLY**  
+All content is created solely for training on personal labs I own/control, and systems I have explicit permission to test.  
+No malicious use ever. Fully compliant with GitHub policy.  
+Any concern → contact me and I’ll fix it immediately.</small>
+
 
 # <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
 
