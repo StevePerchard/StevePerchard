@@ -1,8 +1,12 @@
-<small>⚠️ **FOR LEGAL EDUCATIONAL PURPOSES ONLY**  
-All content is created solely for training on personal labs I own/control, and systems I have explicit permission to test.  
-No malicious use ever. Fully compliant with GitHub policy.  
-Any concern → contact me and I’ll fix it immediately.</small>
-
+<tiny>⚠️ **FOR LEGAL EDUCATIONAL PURPOSES ONLY**
+<p style="font-size:1px; line-height:1; color:#fff; background:#fff; margin:0; padding:0;">
+<details>
+<summary></summary>
+All content is created solely for training on personal labs I own/control, and systems I have explicit permission to test.<br>
+No malicious use ever. Fully compliant with GitHub policy.<br>
+Any concern → contact me and I’ll fix it immediately.
+</details>
+</p>
 
 # <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
 
