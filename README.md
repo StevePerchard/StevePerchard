@@ -10,7 +10,7 @@ Any concern → contact me and I’ll fix it immediately.
 
 # <a href="https://www.linkedin.com/in/stephenperchard/">Steve Perchard</a>'s Cybersecurity Project Portfolio 
 
-Hello & Welcome! I am a Cybersecurity enthusiast. My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
+My projects tackle real-world challenges, blending innovative solutions with hands-on expertise to strengthen security operations. 
 I invite you to explore my work and let's secure the digital world together!
 
 
