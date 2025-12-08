@@ -8,8 +8,8 @@ I invite you to explore my work and let's secure the digital world together!
 - **[Threat Hunting Scenario (Prohibited Tor Browser Usage)](https://github.com/StevePerchard/Threat-Hunting-Scenario-Unauthorised-TOR-Browser-Use-/blob/main/README.md)**
 - **[CTF Threat Hunt (Fake Support Tool Malware)](https://github.com/StevePerchard/CTF-Threat-hunt-Fake-Support-Tool-Malware-/blob/main/README.md)**
 - **[Threat Hunting Scenario ( VMs Exposed to Internet Brute Force Attacks)](https://github.com/StevePerchard/Internet-Exposed-VMs-Threat-Hunt-Remediation/blob/main/README.md))**
-- **[CTF Threat Hunt (Port of Entry)]()**
-- 
+- **[CTF Threat Hunt (Port of Entry)](https://github.com/StevePerchard/CTF-Port-of-Entry/blob/main/README.md)**
+  
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/StevePerchard/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/StevePerchard/Programatic-Vulnerability-Remediation-Scripts/blob/main/README.md)**
